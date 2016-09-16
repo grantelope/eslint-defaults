@@ -1,6 +1,6 @@
 module.exports = {
   "extends": [
-    "eslint-defaults/base"
+    "eslint-config-eslint-defaults/base"
   ],
   "rules": {},
 };

@@ -1,7 +1,7 @@
 module.exports = {
   "extends": [
-    "eslint-defaults/base",
-    "eslint-defaults/rules/react",
+    "eslint-config-eslint-defaults/base",
+    "eslint-config-eslint-defaults/rules/react",
   ],
   "plugins": [
     "react"
